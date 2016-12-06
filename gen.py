@@ -13,3 +13,6 @@ def gen(eid=None):
 		r.seed(time.time())
 	ans = data[r.randrange(len(data))]
 	return ans
+
+if __name__ == '__main__':
+	print(gen())
