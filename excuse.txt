@@ -1,1 +1,3 @@
-ERR: No Excuse found
+ERR: No Excuse found%a%
+%a
+hahaha
